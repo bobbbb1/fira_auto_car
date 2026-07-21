@@ -15,6 +15,16 @@ Sistem ini berfungsi untuk memproses *feed* kamera secara *real-time*, mendeteks
 
 ---
 
+## Testing
+
+### Mini-PC:
+- **Jetson Nano**
+
+### Controller:
+- **ESP32 Devkit v1**
+
+---
+
 ## 👥 Authors
 
 1. zaenal abidin
