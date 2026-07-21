@@ -4,7 +4,7 @@ Proyek ini adalah sistem pelacak garis (*line tracking*) berbasis **OpenCV** dan
 
 ---
 
-## 📝 Deskripsi Proyek
+## Deskripsi
 
 Sistem ini berfungsi untuk memproses *feed* kamera secara *real-time*, mendeteksi posisi garis menggunakan metode segmentasi warna (HSV/Thresholding), dan menghitung estimasi arah pergerakan robot. Output dari sistem ini berupa sinyal kontrol yang dapat dikirimkan ke mikrokontroler untuk mengendalikan arah dan kecepatan motor robot.
 
