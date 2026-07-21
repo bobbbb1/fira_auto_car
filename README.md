@@ -11,7 +11,7 @@ Sistem ini berfungsi untuk memproses *feed* kamera secara *real-time*, mendeteks
 ### Fitur Utama:
 - **Deteksi Garis Real-time**: Pemrosesan citra cepat menggunakan OpenCV.
 - **Filtering Warna Adaptive**: Pengaturan threshold HSV untuk berbagai kondisi pencahayaan.
-- **Integrasi Hardware**: Komunikasi data via Serial (UART) atau UDP ke mikrokontroler.
+- **Integrasi Hardware**: Komunikasi data via Serial (UART) ke mikrokontroler.
 
 ---
 
